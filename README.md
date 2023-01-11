@@ -3,6 +3,9 @@ Cu the: https://docs.google.com/document/d/1TfXLAdAEwaRhK_7i-5hjUwPkGxHvfKlXcBVo
 
 Cach chay code:
 Install nodejs
+
 Chay lenh:
+
 npm install cypress
+
 npx cypress open
