@@ -1,0 +1,20 @@
+[
+    {"id":2,"name":"aaaa1guibs1","description":"l\u00e0 ki\u1ec3u d\u00e1ng","cost":600,"status":"0","category_id":1,"supplier_id":null,"created_at":null,"updated_at":"2023-01-11T10:20:48.000000Z","sale_off":20,"sale_price":100000,"quantity":78,
+    "sub_products":[
+        {"id":29,"size":"XS","color":"Black","quantity":6,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10s21pol001cr2_black_beauty_2__6_1.jpg"},
+        {"id":35,"size":"XS","color":"White","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10s21pol001cr2_bright_white_2__6.jpg"},
+        {"id":36,"size":"S","color":"White","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10s21pol001cr2_bright_white_2__6.jpg"},
+        {"id":37,"size":"XS","color":"Lime","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10s21pol001cr2_insignia_blue_0__4.jpg"},
+        {"id":38,"size":"S","color":"Lime","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10s21pol001cr2_insignia_blue_0__4.jpg"}
+        ]
+    },
+
+    {"id":3,"name":"QU\u1ea6N JEAN NAM TR\u01a0N FORM SKINNY","description":"c\u00f3 form \u00f4m s\u00e1t v\u00e0o ph\u1ea7n ch\u00e2n c\u0169ng nh\u01b0 ph\u1ea7n h\u00f4ng v\u00e0 \u0111\u00f9i. B\u00ean c\u1ea1nh \u0111\u00f3, d\u00e1ng qu\u1ea7n jean nam n\u00e0y c\u00f3 ph\u1ea7n \u1ed1ng nh\u1ecf d\u1ea7n t\u1eeb \u0111\u1ea7u g\u1ed1i tr\u1edf xu\u1ed1ng nh\u01b0ng \u1ed1ng qu\u1ea7n ph\u1ea7n n\u00e0y kh\u00f4ng qu\u00e1 b\u00f3 v\u00e0o ch\u00e2n. \u0110\u01b0\u1ee3c thi\u1ebft k\u1ebf t\u1eeb ch\u1ea5t li\u1ec7u cotton pha polyester v\u1edbi nhi\u1ec1u \u01b0u \u0111i\u1ec3m n\u1ed5i b\u1eadt nh\u01b0 h\u00fat \u1ea9m t\u1ed1t, kh\u00f4 nhanh, m\u1ecfng nh\u1eb9, c\u1ef1c m\u00e1t v\u00e0 ch\u1ecbu nhi\u1ec7t. Ngo\u00e0i ra, qu\u1ea7n jean skinny c\u0169ng s\u1ebd l\u00e0 l\u1ef1a ch\u1ecdn s\u1ed1 m\u1ed9t b\u1edfi chi\u1ebfc qu\u1ea7n n\u00e0y s\u1ebd kh\u00e9o l\u00e9o khoe tr\u1ecdn v\u1ebb \u0111\u1eb9p \u0111\u00f4i ch\u00e2n c\u1ee7a ch\u00e0ng.","cost":21,"status":null,"category_id":5,"supplier_id":null,"created_at":null,"updated_at":"2023-01-11T10:10:00.000000Z","sale_off":20,"sale_price":200000,"quantity":null,
+    "sub_products":[
+        {"id":30,"size":"S","color":"Black","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10f20dpa100-1_1.jpg"},
+        {"id":39,"size":"XS","color":"Black","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10f20dpa100-2_1.jpg"},
+        {"id":40,"size":"S","color":"Black","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10f20dpa100-2_1.jpg"},
+        {"id":41,"size":"M","color":"Black","quantity":null,"image_url":"https:\/\/routine.vn\/media\/catalog\/product\/cache\/5de180fdba0e830d350bd2803a0413e8\/1\/0\/10f20dpa100-2_1.jpg"}
+        ]
+    }
+]
